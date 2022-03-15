@@ -1,0 +1,487 @@
+15-2-2022-9-55-31  =>  Server is up and running on port 5000
+15-2-2022-9-57-6  =>  { result: 0 }
+15-2-2022-9-57-36  =>  User test@gmail.com Logged In.
+15-2-2022-9-58-14  =>  {}
+15-2-2022-9-58-14  =>  User undefined created a meeting room with ID 59183c1e-9b65-43a4-af8a-4cac9ba52ce6
+15-2-2022-9-58-14  =>  [ '59183c1e-9b65-43a4-af8a-4cac9ba52ce6' ]
+15-2-2022-9-58-14  =>  { '59183c1e-9b65-43a4-af8a-4cac9ba52ce6': [] }
+15-2-2022-9-58-57  =>  {
+  '59183c1e-9b65-43a4-af8a-4cac9ba52ce6': [ { email: 'amardeep@testmail.com', message: 'Hello', nsfw: false } ]
+}
+15-2-2022-10-1-5  =>  {
+  '59183c1e-9b65-43a4-af8a-4cac9ba52ce6': [
+    { email: 'amardeep@testmail.com', message: 'Hello', nsfw: false },
+    { email: 'amardeep@testmail.com', message: 'you suck', nsfw: true }
+  ]
+}
+15-2-2022-10-5-45  =>  Server is up and running on port 5000
+15-2-2022-10-6-23  =>  { result: 0 }
+15-2-2022-10-6-40  =>  User test@gmail.com Logged In.
+15-2-2022-10-6-58  =>  {}
+15-2-2022-10-6-58  =>  User undefined created a meeting room with ID 9781f429-188c-4f97-8a51-c8d065546e67
+15-2-2022-10-6-58  =>  [ '9781f429-188c-4f97-8a51-c8d065546e67' ]
+15-2-2022-10-6-58  =>  { '9781f429-188c-4f97-8a51-c8d065546e67': [] }
+15-2-2022-10-7-30  =>  {
+  '9781f429-188c-4f97-8a51-c8d065546e67': [ { email: 'test@gmail.com', message: 'hello', nsfw: false } ]
+}
+15-2-2022-10-7-41  =>  {
+  '9781f429-188c-4f97-8a51-c8d065546e67': [
+    { email: 'test@gmail.com', message: 'hello', nsfw: false },
+    { email: 'test@gmail.com', message: 'you suck', nsfw: true }
+  ]
+}
+15-2-2022-10-12-50  =>  Server is up and running on port 5000
+15-2-2022-10-13-21  =>  { result: 0 }
+15-2-2022-10-13-39  =>  User test@gmail.com Logged In.
+15-2-2022-10-13-42  =>  {}
+15-2-2022-10-13-42  =>  User undefined created a meeting room with ID c43b290f-7ef3-46fb-9498-af6bfcdb8769
+15-2-2022-10-13-42  =>  [ 'c43b290f-7ef3-46fb-9498-af6bfcdb8769' ]
+15-2-2022-10-13-42  =>  { 'c43b290f-7ef3-46fb-9498-af6bfcdb8769': [] }
+15-2-2022-10-15-18  =>  { result: 0 }
+15-2-2022-10-15-31  =>  User test@gmail.com Logged In.
+15-2-2022-10-15-33  =>  {}
+15-2-2022-10-15-33  =>  User undefined created a meeting room with ID e9bb7aec-113b-4d89-bf93-1f77019ef2a7
+15-2-2022-10-15-33  =>  [
+  'c43b290f-7ef3-46fb-9498-af6bfcdb8769',
+  'e9bb7aec-113b-4d89-bf93-1f77019ef2a7'
+]
+15-2-2022-10-15-33  =>  {
+  'c43b290f-7ef3-46fb-9498-af6bfcdb8769': [],
+  'e9bb7aec-113b-4d89-bf93-1f77019ef2a7': []
+}
+15-2-2022-10-15-55  =>  {
+  'c43b290f-7ef3-46fb-9498-af6bfcdb8769': [],
+  'e9bb7aec-113b-4d89-bf93-1f77019ef2a7': [ { email: 'test@gmail.com', message: 'Hello', nsfw: false } ]
+}
+15-2-2022-10-16-15  =>  {
+  'c43b290f-7ef3-46fb-9498-af6bfcdb8769': [],
+  'e9bb7aec-113b-4d89-bf93-1f77019ef2a7': [
+    { email: 'test@gmail.com', message: 'Hello', nsfw: false },
+    { email: 'test@gmail.com', message: 'you Suck', nsfw: true }
+  ]
+}
+15-2-2022-10-35-46  =>  Server is up and running on port 5000
+15-2-2022-10-58-38  =>  Server is up and running on port 5000
+15-2-2022-10-59-14  =>  { result: 0 }
+15-2-2022-10-59-30  =>  User test@gmail.com Logged In.
+15-2-2022-10-59-30  =>  { result: 0 }
+15-2-2022-10-59-46  =>  {}
+15-2-2022-10-59-46  =>  User undefined created a meeting room with ID 2780cfcf-6280-4829-b589-6363649ba3ec
+15-2-2022-10-59-46  =>  [ '2780cfcf-6280-4829-b589-6363649ba3ec' ]
+15-2-2022-10-59-46  =>  { '2780cfcf-6280-4829-b589-6363649ba3ec': [] }
+15-2-2022-11-0-17  =>  { result: 0 }
+15-2-2022-11-0-50  =>  { result: 0 }
+15-2-2022-11-1-10  =>  User test@gmail.com Logged In.
+15-2-2022-11-2-48  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [ { email: 'Aman', message: 'Hi', nsfw: false } ]
+}
+15-2-2022-11-2-55  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false }
+  ]
+}
+15-2-2022-11-3-5  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true }
+  ]
+}
+15-2-2022-11-3-17  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ]
+}
+15-2-2022-11-5-57  =>  { result: 0 }
+15-2-2022-11-6-0  =>  { result: 0 }
+15-2-2022-11-6-5  =>  { result: 0 }
+15-2-2022-11-7-43  =>  User test@gmail.com Logged In.
+15-2-2022-11-7-45  =>  {}
+15-2-2022-11-7-45  =>  User undefined created a meeting room with ID 20268a8f-9ec7-4ab0-bebb-3cc05e641625
+15-2-2022-11-7-45  =>  [
+  '2780cfcf-6280-4829-b589-6363649ba3ec',
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625'
+]
+15-2-2022-11-7-45  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': []
+}
+15-2-2022-11-8-17  =>  { result: 0 }
+15-2-2022-11-8-20  =>  { result: 0 }
+15-2-2022-11-8-21  =>  { result: 0 }
+15-2-2022-11-8-22  =>  { result: 0 }
+15-2-2022-11-9-6  =>  { result: 0 }
+15-2-2022-11-9-17  =>  User test@gmail.com Logged In.
+15-2-2022-11-9-38  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [ { email: 'Amardeep', message: 'Hi', nsfw: false } ]
+}
+15-2-2022-11-9-47  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false }
+  ]
+}
+15-2-2022-11-10-2  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ]
+}
+15-2-2022-11-10-14  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true }
+  ]
+}
+15-2-2022-11-12-3  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ]
+}
+15-2-2022-11-12-12  =>  { result: 0 }
+15-2-2022-11-12-13  =>  { result: 0 }
+15-2-2022-11-12-22  =>  User test@gmail.com Logged In.
+15-2-2022-11-12-24  =>  {}
+15-2-2022-11-12-24  =>  User undefined created a meeting room with ID 3f07e463-ea7d-4cda-8425-eb90e662536e
+15-2-2022-11-12-24  =>  [
+  '2780cfcf-6280-4829-b589-6363649ba3ec',
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625',
+  '3f07e463-ea7d-4cda-8425-eb90e662536e'
+]
+15-2-2022-11-12-24  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': []
+}
+15-2-2022-11-12-54  =>  { result: 0 }
+15-2-2022-11-13-3  =>  User test@gmail.com Logged In.
+15-2-2022-11-13-26  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': [ { email: 'Amardeep', message: 'Hi', nsfw: false } ]
+}
+15-2-2022-11-13-33  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false }
+  ]
+}
+15-2-2022-11-13-45  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false }
+  ]
+}
+15-2-2022-11-13-53  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true }
+  ]
+}
+15-2-2022-11-14-48  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false }
+  ]
+}
+15-2-2022-11-18-12  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false }
+  ]
+}
+15-2-2022-11-19-18  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false }
+  ]
+}
+15-2-2022-11-19-21  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false }
+  ]
+}
+15-2-2022-11-35-55  =>  {
+  '2780cfcf-6280-4829-b589-6363649ba3ec': [
+    { email: 'Aman', message: 'Hi', nsfw: false },
+    { email: 'Amardeep', message: 'hello', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'fuck you', nsfw: true }
+  ],
+  '20268a8f-9ec7-4ab0-bebb-3cc05e641625': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'You Suck', nsfw: true }
+  ],
+  '3f07e463-ea7d-4cda-8425-eb90e662536e': [
+    { email: 'Amardeep', message: 'Hi', nsfw: false },
+    { email: 'Aman', message: 'Hello', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Aman', message: 'You suck', nsfw: true },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false },
+    { email: 'Amardeep', message: 'How are you?', nsfw: false }
+  ]
+}
+15-2-2022-21-31-58  =>  Server is up and running on port 5000
+15-2-2022-21-32-28  =>  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/connection.js:807:32)
+    at /home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:342:10
+    at /home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:1176:10)
+    at Mongoose.connect (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:341:20)
+    at Object.<anonymous> (/home/krat0s/Desktop/SIH3/SIH/backend/main.js:12:10)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    logicalSessionTimeoutMinutes: undefined
+  }
+}
+15-2-2022-21-33-32  =>  Server is up and running on port 5000
+15-2-2022-21-34-2  =>  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/connection.js:807:32)
+    at /home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:342:10
+    at /home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:1176:10)
+    at Mongoose.connect (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:341:20)
+    at Object.<anonymous> (/home/krat0s/Desktop/SIH3/SIH/backend/main.js:12:10)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    logicalSessionTimeoutMinutes: undefined
+  }
+}
+15-2-2022-21-34-46  =>  Server is up and running on port 5000
+15-2-2022-21-35-16  =>  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/connection.js:807:32)
+    at /home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:342:10
+    at /home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:1176:10)
+    at Mongoose.connect (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:341:20)
+    at Object.<anonymous> (/home/krat0s/Desktop/SIH3/SIH/backend/main.js:12:10)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    logicalSessionTimeoutMinutes: undefined
+  }
+}
+15-2-2022-21-41-22  =>  Server is up and running on port 5000
+15-2-2022-21-41-44  =>  { result: 0 }
+15-2-2022-21-41-56  =>  Server is up and running on port 5000
+15-2-2022-21-42-2  =>  { result: 0 }
+15-2-2022-21-42-26  =>  MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/connection.js:807:32)
+    at /home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:342:10
+    at /home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:32:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:31:10)
+    at Mongoose._promiseOrCallback (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:1176:10)
+    at Mongoose.connect (/home/krat0s/Desktop/SIH3/SIH/backend/node_modules/mongoose/lib/index.js:341:20)
+    at Object.<anonymous> (/home/krat0s/Desktop/SIH3/SIH/backend/main.js:12:10)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1155:10) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    logicalSessionTimeoutMinutes: undefined
+  }
+}
+15-2-2022-22-24-21  =>  Server is up and running on port 5000
+15-2-2022-22-24-40  =>  { result: 0 }

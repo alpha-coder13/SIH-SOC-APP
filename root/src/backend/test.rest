@@ -1,0 +1,82 @@
+###
+GET http://127.0.0.1:5000 HTTP/1.1
+
+###
+GET http://127.0.0.1:8500/auth/ HTTP/1.1
+
+###
+POST http://127.0.0.1:5000/auth/signup HTTP/1.1
+Content-Type:application/json
+
+{
+    "username": "q",
+    "firstname": "q",
+    "lastname": "q",
+    "email": "test@gmail.com",
+    "UID": "519705c4d078f2d4295184afe93b0c7191e2a97db9a4f61486bbd0d24b087c27"
+}
+
+###
+POST http://127.0.0.1:5000/auth/login HTTP/1.1
+Content-Type:application/json
+
+{
+    "email": "q@q.com",
+    "UID": "q"
+}
+
+###
+POST http://127.0.0.1:5000/auth/logout HTTP/1.1
+Content-Type:application/json
+
+{
+    "email": "a@b.com",
+}
+###
+
+POST http://127.0.0.1:5000/auth/logout HTTP/1.1
+Content-Type:application/json
+
+{
+    "email": "test@gmail.com",
+}
+###
+
+POST http://127.0.0.1:5000/rooms/newroom HTTP/1.1
+Content-Type:application/json
+
+###
+
+POST http://127.0.0.1:5000/rooms/joinroom HTTP/1.1
+Content-Type:application/json
+
+{
+    "roomID": "d5c66ed5-17e3-41d3-a8f2-026d23d4b56e",
+    "email": "test@gmail.com"
+}
+###
+
+POST http://127.0.0.1:5000/rooms/message HTTP/1.1
+Content-Type:application/json
+
+{
+    "roomID": "e8fec461-4b29-44c6-be86-0d3f1b3d5680",
+    "email": "fbuoaf",
+    "message": "adadshkg"
+}
+###
+
+POST http://127.0.0.1:5000/rooms/getMessages HTTP/1.1
+Content-Type:application/json
+
+{
+    "roomID": "9d77b18b-4bed-45be-8e93-d19d1bcd533f",
+    "email": "fbuoaf"
+}
+###
+POST https://moderataur.herokuapp.com/api/post/NSFW/v2/status HTTP/1.1
+Content-Type:application/json
+
+ {
+     "text": "You suck"
+ }
